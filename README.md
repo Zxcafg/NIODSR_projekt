@@ -267,6 +267,7 @@ Każde kliknięcie resetuje poprzedni ruch robota.
 ## 10. Autorzy
 
 Pavel Tshonek 155068
+
 Pavel Skabeltsyn 155113
 
 Projekt zespołowy – repozytorium zawiera commity wszystkich autorów zgodnie z wymaganiami.
